@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("imagenes/fondo de gatos.jpg");
+    background-size: cover;
+    background-color: #fff0f5; /* color de fondo rosa clarito */
+    color: #333; /* color del texto */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    .galeria {
+    display: flex;
+    justify-content: center;
+}
+
+}
+
+h1 {
+    color: #ff1493; /* color del título */
+}
+
+p {
+    font-size: 18px;
+}
